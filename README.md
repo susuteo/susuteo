@@ -17,8 +17,8 @@
         align="center"
         style="padding-right: 10px;"
         width="400px"
-        alt="Xande Stats"
-        title="Xande Stats" 
+        alt="Suellen Stats"
+        title="Suellen Stats" 
         src="https://github-readme-stats.vercel.app/api?username=susuteo&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
     />
     <br>
@@ -26,8 +26,8 @@
     <img 
         align="center"
         width="400px"
-        alt="Xande Lenguages"
-        title="Xande Lenguages" 
+        alt="Suellen Lenguages"
+        title="Suellen Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=susuteo&layout=compact&theme=dark&locale=pt-br"
     />
 </div>
