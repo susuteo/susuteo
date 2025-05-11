@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Suellen 😄
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**susuteo/susuteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Computação** na USP  
+🚀 Membro do **Zenith Aerospace**
 
-Here are some ideas to get you started:
+## 🧠 Áreas de Interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👾 Sistemas Embarcados
+- 🛰️ Tecnologia Aeroespacial
+- ⚙️ C/C++, Python
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suellen-teodorico/)  
+📧 suellenteodorico@gmail.com
+
+---
+
+⭐ Dê uma olhada nos meus repositórios ou entre em contato para colaborar em projetos interessantes!
