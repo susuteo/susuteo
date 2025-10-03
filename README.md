@@ -26,8 +26,8 @@
     <img 
         align="center"
         width="400px"
-        alt="Suellen Lenguages"
-        title="Suellen Lenguages" 
+        alt="Suellen Languages"
+        title="Suellen Languages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=susuteo&layout=compact&theme=dark&locale=pt-br"
     />
 </div>
